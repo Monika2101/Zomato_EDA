@@ -21,11 +21,11 @@
  - Cost of Restuarant
  - No. of restaurants in a Location
  - Restaurant type
- - Most famous restaurant chains in Bengaluru 
+ - Most famous restaurant chains in Bengaluru                                                                                                                                       
  4.**Regression Analysis**
  - Linear Regression
  - Decision Tree Regression
  - Random Forest Regression
  
-The basic idea is analyzing the Buisness Problem of Zomato to get a fair idea about the factors affecting the establishment of different types of restaurant at different places in Bengaluru, aggregate rating of each restaurant and many more.
-link to download Dataset : https://drive.google.com/file/d/176at80ohs9MwAGpSEhsC6A9EtWXwD-Zi/view
+The basic idea is analyzing the Buisness Problem of Zomato to get a fair idea about the factors affecting the establishment of different types of restaurant at different places in Bengaluru, aggregate rating of each restaurant and many more.                                                                                   
+Link to download Dataset : https://drive.google.com/file/d/176at80ohs9MwAGpSEhsC6A9EtWXwD-Zi/view
